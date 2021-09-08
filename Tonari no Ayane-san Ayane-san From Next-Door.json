@@ -1,25 +1,25 @@
 {
-  "title": "Tonari no Ayane-san Ayane-san From Next-Door",
-  "description": "",
-  "artist": "Haraheridou (Herio)",
-  "author": "",
-  "cover": "https://i.imgur.com/h5JJfDm.jpg",
-  "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1631143014",
-      "groups": {
-        "Clog": "/proxy/api/imgur/chapter/SyRPlvX/"
-      }
-    },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1631143039",
-      "groups": {
-        "Clog": "/proxy/api/imgur/chapter/Av4jHUt/"
-      }
+    "title": "Tonari no Ayane-san Ayane-san From Next-Door",
+    "description": "na",
+    "artist": "Haraheridou (Herio)",
+    "author": "Haraheridou (Herio)",
+    "cover": "https://i.imgur.com/h5JJfDm.jpg",
+    "chapters": {
+        "1": {
+            "title": "",
+            "volume": "1",
+            "groups": {
+                "": "/proxy/api/imgur/chapter/SyRPlvX/"
+            },
+            "last_updated": "1631143014"
+        },
+        "2": {
+            "title": "",
+            "volume": "1",
+            "groups": {
+                "": "/proxy/api/imgur/chapter/Av4jHUt/"
+            },
+            "last_updated": "1631143039"
+        }
     }
-  }
 }
